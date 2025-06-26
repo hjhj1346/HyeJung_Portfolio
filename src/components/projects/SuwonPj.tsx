@@ -134,7 +134,7 @@ const SuwonPj = () => {
               <div className="project_txt2_2">
                 <b>&bull; 프론트엔드 개발</b><br />
                 React 및 TypeScript를 활용한 웹 화면 구현<br />
-                상태 관리 및 비즈니스 로직 적용 (React Hooks, Context API, Redux 등 활용)<br />
+                상태 관리 및 비즈니스 로직 적용<br />
                 UI/UX 개선 및 반응형 웹 개발<br />
                 WebView를 활용한 모바일 환경 대응<br />
                 <b>&bull; 로그인 기능 구현</b><br />
